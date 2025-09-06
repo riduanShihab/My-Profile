@@ -1,4 +1,5 @@
-h1 align="center">Hi 👋, I'm Riduanul Abedin Shihab</h1>
+# Hi 👋, I'm Riduanul Abedin Shihab
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riduanshihab" alt="riduanshihab" /></a> </p>
